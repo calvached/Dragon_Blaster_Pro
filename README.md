@@ -9,8 +9,7 @@ Built in Ruby 2.0.0p353 and Rails 4.0.3
 
 ## Configuration
 
-Clone the repo
-Then execute:
+Clone the repo then execute:
 ```
 bundle install
 ```
